@@ -28,17 +28,17 @@ acciones.
 3. Configura la conexión a SQL Server en los scripts de las fases correspondientes.
 4. Ejecuta los scripts en orden para realizar el análisis completo.
 
-Fases del Proyecto
-    Fase 1: Extracción de Datos
-        • Obtención de datos de empresas del S&P 500 desde Wikipedia.
-        • Descarga de los precios de cotización del último año.
-    Fase 2: Análisis Estadístico
-        • Análisis descriptivo e inferencial de los precios de las acciones.
-    Fase 3: Almacenamiento en SQL Server
-        • Carga de los datos limpios en una base de datos SQL Server.
-    Fase 4: Dashboard en Power BI
-        • Creación de un dashboard interactivo con KPIs, tooltips y bookmarks.
-    Fase 5: Clusterización de las Acciones
-        • Agrupamiento de las acciones en clusters según indicadores de volatilidad.
-    Fase 6: Publicación en GitHub
-        • Subida del proyecto al repositorio de GitHub y documentación en este archivo README.md.
+## Fases del Proyecto
+1. Extracción de Datos
+    * Obtención de datos de empresas del S&P 500 desde Wikipedia.
+    * Descarga de los precios de cotización del último año.
+2. Análisis Estadístico
+    * Análisis descriptivo e inferencial de los precios de las acciones.
+3. Almacenamiento en SQL Server
+    * Carga de los datos limpios en una base de datos SQL Server.
+4. Dashboard en Power BI
+    * Creación de un dashboard interactivo con KPIs, tooltips y bookmarks.
+5. Clusterización de las Acciones
+    * Agrupamiento de las acciones en clusters según indicadores de volatilidad.
+6. Publicación en GitHub
+    * Subida del proyecto al repositorio de GitHub y documentación en este archivo README.md.
