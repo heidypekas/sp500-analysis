@@ -9,7 +9,7 @@ acciones.
 
 ## Requisitos
 - Python 3.x
-- Librerías: 'pandas', 'sqlalchemy', 'pyodbc', 'scikit-learn'
+- Librerías: `pandas`, `sqlalchemy`, `pyodbc`, `scikit-learn`
 - Power BI Desktop
 - SQL Server
 
